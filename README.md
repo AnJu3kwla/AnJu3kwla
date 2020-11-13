@@ -13,11 +13,3 @@ I'm Anjana. A developer and a minimalist
 
 <br/>
 
-### Connect with me:
-<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" href="https://anju3kwla.github.io/anjana/"/>
-<img align="left" alt="anju | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" href="https://twitter.com/pulitha_anjana"/>
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" href="https://www.linkedin.com/in/pulitha-anjana-22916215a/"/>
-<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" href="https://www.instagram.com/__an.ja.na__"/>
-
-
-
