@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Anjana. A developer and a minimalist
-- 🌱 Self learningr and passinate about technology
+- 🌱 Self learning and passinate about technology
 
 
 ## Languages and Tools:
