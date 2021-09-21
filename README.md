@@ -13,7 +13,7 @@ I'm Anjana. A developer and a minimalist
 <img align="left" alt="Mysql" width="40px" src="https://camo.githubusercontent.com/9bbd13a20bb8651d8c54267857569bd9562da9a851ebae27a1eba70a1fc47535/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6d7973716c2d6c6f676f2e706e67" />
 <img align="left" alt="MongoDB" width="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png" />
 </br>
-
+</br>
 
 ### Tools and Technologies:
 <img align="left" alt="InteliJ" width="40px" src="https://camo.githubusercontent.com/61f5c9a2351e303c6523347655e93aebaf14254c4d8b67b288d0d58941c4fea7/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f696e74656c6c696a2d696465612e706e67" />
