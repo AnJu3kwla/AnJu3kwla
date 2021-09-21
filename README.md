@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello ! 👋
 
 I'm Anjana. A developer and a minimalist
 - 🌱 Self learning and passinate about technology
