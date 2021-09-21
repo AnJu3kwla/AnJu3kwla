@@ -18,6 +18,6 @@ I'm Anjana. A developer and a minimalist
 
 ### Tools and Technologies:
 <img align="left" alt="InteliJ" width="35px" src="https://camo.githubusercontent.com/61f5c9a2351e303c6523347655e93aebaf14254c4d8b67b288d0d58941c4fea7/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f696e74656c6c696a2d696465612e706e67" />
-<img align="left" alt="Netbeans" width="35px" src="https://netbeans.apache.org/images/apache-netbeans.svg" />
-<img align="left" alt="Postman" width="35px" src="https://symbols.getvecta.com/stencil_92/21_postman-icon.fddaf8a27f.svg" />
-<img align="left" alt="VScode" width="35px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" />
+<img align="left" alt="Netbeans" width="30px" src="https://netbeans.apache.org/images/apache-netbeans.svg" />
+<img align="left" alt="Postman" width="30px" src="https://symbols.getvecta.com/stencil_92/21_postman-icon.fddaf8a27f.svg" />
+<img align="left" alt="VScode" width="30px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" />
